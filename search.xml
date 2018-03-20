@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F03%2F19%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[从现在开始]]></title>
+    <url>%2F2018%2F03%2F20%2Fblog1%2F</url>
+    <content type="text"><![CDATA[欢迎来到我的博客，这是我第一次写的博客，从这篇短文开始，记录我的前端学习之路，之前还暗下决心要在一个月内能懂 vue.js 结果因为实习工作的事慢慢的搁置了，还要学习 ES6 的语法，路还有很长，是时候重新出发。努力加油吧！]]></content>
   </entry>
 </search>
